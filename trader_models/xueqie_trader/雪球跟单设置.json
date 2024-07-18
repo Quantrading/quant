@@ -1,0 +1,29 @@
+{
+    "雪球跟单":"跟单原理",
+    "原理":"比重变大默认买入，变小默认卖出，持股不追加,支持多策略跟单",
+    "雪球cookie":"cookiesu=241715400714727; device_id=a3ef10a376ef5247ffa076b3f60cda63; xq_is_login=1; u=1342909666; s=cb127hrtpz; bid=f1b5e01be977a7023f9ec859cdf24ad4_lw1xly5z; xq_a_token=df2aa6d15c17173bcfaef7658bb5b8ac64ea33c9; xqat=df2aa6d15c17173bcfaef7658bb5b8ac64ea33c9; xq_id_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJ1aWQiOjEzNDI5MDk2NjYsImlzcyI6InVjIiwiZXhwIjoxNzIwODM4NDkwLCJjdG0iOjE3MTgyNDY0OTAzNjIsImNpZCI6ImQ5ZDBuNEFadXAifQ.k9I_tc7Ok8TblZZrWolo8PHoxPk_mvtFXKIQ57z-XseW70A37gcJfdndik091vUekXCGyD3e7ofWATQfowfontmJuhXgwY8vPL2V5XPxSqywCy-x-M1UuakJncEFJiTFPo2LikWjC60xEUCPffVXziYLbpoCaQWU7BA-PbmCzAtkYx3It9DWuftYWSQaVN1-KSXdUBvhwFZda58IPYyQreH5LcHqhwpwepiEk13W0polDvNJehBqL0ER4_h-atoiXHMBsBe0yOVS2ot6xDTn1td5inSmmBbtuxFj1fIKJ7IuZ6gwHmjnJNHix8B2nl401OyZRkB3go_TNP4MHoRpBQ; xq_r_token=c40af5262b8ecb6cbca852e94faa208b9a526ed5; Hm_lvt_1db88642e346389874251b5a1eded6e3=1718955782,1719031035,1719214556,1719298980; snbim_minify=true; is_overseas=0; Hm_lpvt_1db88642e346389874251b5a1eded6e3=1719304939",
+    "组合名称":["实验"],
+    "组合id":["ZH3368671"],
+    "不同策略间隔更新时间":0.05,
+    "同步持股说明":"同步持股就是买入目前的持股,不然就同步成交",
+    "资金模式":"雪球",
+    "资金模式说明":"雪球/自定义",
+    "雪球资金设置":"设置**********************",
+    "账户跟单比例":0.005,
+    "自定义资金设置":"设置————————下面设置分析配置是参考，保持和分析配置里面一样————————————————",
+    "交易模式":"金额",
+    "固定交易资金":10000,
+    "持有金额限制":10000,
+    "下单价格说明":"askPrice_0,askPrice买入,bidPrice卖出,0一档",
+    "下单的价格":"askPrice_0",
+    "固定交易数量":100,
+    "持有限制":100,
+    "持股限制":10,
+    "下单交易模式":"立马下单",
+    "下单交易模式说明":"立马下单/通过综合交易模型",
+    "是否需要清空缓存":"是",
+    "特别提醒":"qmt的路径一点要设置对,不然可能删除其他的内容",
+    "桌面路径":"C:/Users/lxg123456/Desktop"
+
+
+}
